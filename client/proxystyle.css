@@ -4,11 +4,12 @@ html{
 
 .container{
   width:90% !important;
-  margin:auto !important;
+  margin:0 auto !important;
 }
 
 #image-gallery{
   display:inline-block;
+  float:left;
   max-width: 400px !important;
 }
 
@@ -21,3 +22,15 @@ html{
   display:inline-block;
 }
 
+.Carousel-Container{
+  margin: 0 0 50px 0 !important;
+}
+
+#search-bar-root{
+  width:90% !important;
+  margin:0 auto !important;
+}
+
+#main{
+  display: inline-block;
+}
