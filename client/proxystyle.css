@@ -1,0 +1,23 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.container{
+  width:90% !important;
+  margin:auto !important;
+}
+
+#image-gallery{
+  display:inline-block;
+  max-width: 400px !important;
+}
+
+#description-root{
+  float:right;
+  max-width:600px !important;
+}
+
+#image-description-wrapper{
+  display:inline-block;
+}
+
